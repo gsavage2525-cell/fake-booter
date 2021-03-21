@@ -1,7 +1,7 @@
 # Fake Booter
  A fake booter to entertain the gallery
 
-![free-booter](https://i.imgur.com/TbZLTxi.gif)
+![free-booter](https://i.imgur.com/TbZLTxi.mp4)
 
 ## How to install ?
 
