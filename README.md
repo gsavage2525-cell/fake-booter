@@ -1,7 +1,7 @@
 # Fake Booter
  A fake booter to entertain the gallery
 
-![free-booter](https://cdn.discordapp.com/attachments/788334325128757260/823241667460071444/ezgif-6-294fdc9dd57a.gif)
+![free-booter](https://i.imgur.com/aRSprC8.gif)
 
 ## How to install ?
 
