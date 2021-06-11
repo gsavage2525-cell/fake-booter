@@ -13,6 +13,10 @@ npm i
 
 ## How to start ?
 
+### On Windows
+Launch the start.bat
+
+### On CLI
 ```bash
 node index.js
 ```
